@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LevaniVashadze
-- 👀 I’m interested in Web Devlopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Open Source projects written in Python
 - 📫 How to reach me vashadzelevani11@gmail.com
