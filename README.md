@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://user-images.githubusercontent.com/100613979/180797688-80f1f6b2-41ad-4fa5-ac87-df33f8868ebf.png" width="300"/>
+    <img src="https://user-images.githubusercontent.com/100613979/180797688-80f1f6b2-41ad-4fa5-ac87-df33f8868ebf.png" width="200"/>
 </div>
 
 ### :technologist: About Me :
@@ -37,7 +37,7 @@ My Name is Levani and i am a Sofware Developer specialising in Web Automation an
 ---
 
 ### :fire: My Stats :
-[![Levani's GitHub stats](https://github-readme-stats.vercel.app/api?username=LevaniVashadze&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)\
+[![Levani's GitHub stats](https://github-readme-stats.vercel.app/api?username=LevaniVashadze&count_private=true&show_icons=true&theme=graywhite&hide=stars)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevaniVashadze&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=LevaniVashadze&?style=for-the-badge&color=red" alt=""/>
