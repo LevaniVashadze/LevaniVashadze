@@ -27,6 +27,5 @@ jobs:
           # Options
           user: LevaniVashadze
           template: classic
-          base: activity, repositories
+          base: activity, community, repositories
           config_timezone: Asia/Tbilisi
-          plugin_lines: yes
