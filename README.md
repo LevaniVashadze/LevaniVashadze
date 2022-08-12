@@ -40,4 +40,6 @@ My Name is Levani and i am a Software Developer specialising in Web Automation a
 [![Levani's GitHub stats](https://github-readme-stats.vercel.app/api?username=LevaniVashadze&count_private=true&show_icons=true&theme=graywhite&hide=stars)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevaniVashadze&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/LevaniVashadze?template=classic&base.header=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FTbilisi)
+
 <img src="https://komarev.com/ghpvc/?username=LevaniVashadze&?style=for-the-badge&color=red" alt=""/>
