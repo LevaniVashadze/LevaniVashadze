@@ -37,7 +37,7 @@ My Name is Levani and i am a Software Developer specialising in Web Automation a
 ---
 
 ### :fire: My Stats :
-![Metrics](https://metrics.lecoq.io/?template=classic&habits=1&base.indepth=false&base.hireable=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&config.timezone=Asia%2FTbilisi)
+![Metrics](https://metrics.lecoq.io/?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FTbilisi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevaniVashadze&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
