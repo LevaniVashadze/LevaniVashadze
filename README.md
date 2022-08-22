@@ -36,6 +36,8 @@ My Name is Levani and i am a Software Developer specialising in Web Automation a
 - :mailbox: Levani#3887
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1EJX4B)
+
 ### :fire: My Stats :
 ![Metrics](/github-metrics.svg)
 
