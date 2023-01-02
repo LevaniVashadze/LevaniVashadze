@@ -7,7 +7,7 @@ My Name is Levani and i am a Software Developer specialising in Web Automation a
 - :pushpin: I live in Tbilisi, Georgia
 - <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/> Currently Learning React
 - :racing_car: I like Formula 1 and Football
-- ⛏ My favourite game is my Minecraft
+- ⛏ My favourite game is Minecraft and Cities Skylines
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
