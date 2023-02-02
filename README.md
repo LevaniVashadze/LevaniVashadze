@@ -36,8 +36,9 @@ My Name is Levani and i am a Software Developer specialising in Web Automation a
 ---
 
 ### :envelope: Contact Me:
-- :envelope: vashadzelevani11@gmail.com
-- :mailbox: Levani#3887
+- Mail: vashadzelevani11@gmail.com
+- Linkedin: [levanivashadze](https://www.linkedin.com/in/levanivashadze/)
+- Discord: Levani#3887
 ---
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1EJX4B)
