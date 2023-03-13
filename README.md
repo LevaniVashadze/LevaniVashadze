@@ -7,7 +7,7 @@ My Name is Levani and i am a Software Developer specialising in Web Automation a
 - :pushpin: I live in Tbilisi, Georgia
 - 📱 Currently learning Flutter
 - :racing_car: I like Formula 1 and Football
-- ⛏ My favourite game are Minecraft and Cities Skylines
+- ⛏ My favourite games are Minecraft and Cities Skylines
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
