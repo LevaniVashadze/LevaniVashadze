@@ -5,7 +5,7 @@
 ### :technologist: About Me :
 My Name is Levani and i am a Software Developer specialising in Web Automation and Web Development.
 - :pushpin: I live in Tbilisi, Georgia
-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/> Currently Learning React
+- 📱 Currently learning Flutter
 - :racing_car: I like Formula 1 and Football
 - ⛏ My favourite game are Minecraft and Cities Skylines
 
