@@ -46,6 +46,6 @@ My Name is Levani and i am a Software Developer specialising in Web Automation a
 ### :fire: My Stats :
 ![Metrics](/github-metrics.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevaniVashadze&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevaniVashadze&count_private=true&theme=graywhite&hide=[dart])](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=LevaniVashadze&style=for-the-badge)
