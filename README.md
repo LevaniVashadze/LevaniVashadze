@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me :
 My Name is Levani and i am a Software Developer specialising in Web Automation and Web Development.
 - :pushpin: I live in Tbilisi, Georgia
-- 🛡️ Currently enhancing my knowledge on Next.js and Django Rest Framework
+- 🛡️ Currently working on ![gamefolio.me](https://gamefolio.me)
 - :racing_car: I like Formula 1 and Football
 - ⛏ My favourite games are Minecraft and Cities Skylines
 
