@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/100613979/180797688-80f1f6b2-41ad-4fa5-ac87-df33f8868ebf.png" width="200"/>
 </div>
+[![committers.top badge](https://user-badge.committers.top/georgia/USERNAME.svg)](https://user-badge.committers.top/georgia/USERNAME)
 
 ### 👨‍💻 About Me :
 My Name is Levani and i am a Software Developer specialising in Web Automation and Web Development.
